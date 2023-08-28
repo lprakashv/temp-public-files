@@ -1,0 +1,2 @@
+custom-filebeat-linux-amd64 filter=lfs diff=lfs merge=lfs -text
+sample-log-gen-1.0-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
